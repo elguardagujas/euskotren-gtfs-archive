@@ -1,0 +1,3 @@
+[submodule "base_scripts"]
+	path = base_scripts
+	url = https://github.com/elguardagujas/base-scripts
